@@ -1,3 +1,3 @@
-#Codecademy Code Challenge - Find Your Hat
+# Codecademy Code Challenge - Find Your Hat
 
 ...
